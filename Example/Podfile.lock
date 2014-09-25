@@ -1,0 +1,23 @@
+PODS:
+  - CFCountryFlags (0.1.0):
+    - SVGImage (~> 0.0.4)
+  - Expecta (0.3.1)
+  - Specta (0.2.1)
+  - SVGImage (0.0.4)
+
+DEPENDENCIES:
+  - CFCountryFlags (from `../`)
+  - Expecta
+  - Specta (~> 0.2.1)
+
+EXTERNAL SOURCES:
+  CFCountryFlags:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CFCountryFlags: f37849196014d495ed8401233ec4c04f340c041a
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+  SVGImage: 068c6979bac941db904fcd94ca2c5969a4359735
+
+COCOAPODS: 0.33.1

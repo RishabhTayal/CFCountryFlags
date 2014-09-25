@@ -10,4 +10,6 @@
 
 @interface CFViewController : UIViewController
 
+@property (nonatomic, weak) IBOutlet UIImageView *flagView;
+
 @end
